@@ -1,0 +1,11 @@
+#button{
+    font-size: medium;
+    background-color: gray;
+    color: white;
+}
+#button:hover{
+    background-color: black;
+}
+.brand{
+    color: black;
+}

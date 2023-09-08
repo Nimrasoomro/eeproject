@@ -1,0 +1,138 @@
+/* top text scrolling */
+#scrolltext{
+    font-size: medium;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#textscroll{
+    font-size: medium;
+    background-color: rgb(209, 255, 243);
+    color: rgb(0, 0, 0);
+}
+
+/* all navbar */
+#logo{
+    width: 120px;
+    height: 50px;
+}
+#nav{
+    font-size: large;
+}
+#icon{
+    color: rgb(11, 223, 11);
+}
+
+/* all carousel */
+.carouselcss{
+    width:100%;
+}
+
+/* owl */
+#img{
+    border-radius: 10%;
+}
+.btn{
+        background-color: transparent;       
+}
+.btn:hover{
+   color: red;
+}
+#row{
+    padding: auto;
+}
+#owl{
+    font-size: large;
+}
+
+/* cards */
+#button{
+    font-size: medium;
+    background-color: gray;
+    color: white;
+}
+
+ .ribbon{
+    width: 110px;
+    font-size: 14px;
+    padding: 4px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    text-align: center;
+    background-color: rgb(63, 63, 63);
+    color: white;
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+}
+
+#more {display: none;}
+#myBtn{
+    font-size: medium;
+    background-color: gray;
+    color: white;
+}
+#read{
+    font-size: medium;
+}
+
+#footer{
+    height: 200px;
+    background-color: rgb(255, 252, 252);
+    
+}
+#about{
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+#iconf{
+    color: blue;
+    text-decoration: none;
+}
+#iconi{
+    color: pink;
+    text-decoration: none;
+}
+#icont{
+    color: red;
+    text-decoration: none;
+}
+#iconw{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    font-size: 40px;
+    padding-left: 8px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+#icong{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    padding-left: 8px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+#iconp{
+    width: 50px;
+    height: 50px;
+    background-color: skyblue;
+    color: white;
+    font-size: 40px;
+    padding-left: 8px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+#icongit{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    padding-left: 8px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
